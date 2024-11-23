@@ -5,7 +5,7 @@ export default function Features() {
     <div className="container flex flex-col gap-8 items-center">
       <h2>Features</h2>
 
-      <div className="row grid gap-12 xl:grid-cols-3 md:grid-cols-2 grid-cols-1 xl:w-2/3 w-full">
+      <div className="row grid gap-12 xl:grid-cols-3 md:grid-cols-2 grid-cols-1 xl:w-5/6 w-full">
         <div className="item flex flex-col items-center gap-6">
           <Image
             src="/images/pyramid.webp"

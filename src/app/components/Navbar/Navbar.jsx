@@ -61,7 +61,7 @@ export default function Navbar() {
                     <li onClick={() => scrollToTarget('faq')}><span>FAQ</span>
                     </li>
                     <li>
-                        <button onClick={() => scrollToTarget('get-started')} className={`btn btn-primary`}>
+                        <button onClick={() => scrollToTarget('contact')} className={`btn btn-primary`}>
                             Get started
                         </button>
                     </li>

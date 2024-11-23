@@ -15,11 +15,11 @@ export default function Home() {
           <div className="container">
             <div className="row">
               <div className="item flex flex-col items-center">
-                <h1 className="text-center">
+                <h1 className="text-center mt-8">
                   Bring Your Imagination to Life with AI-Driven 3D Character
                   Creation
                 </h1>
-                <p className="text-center w-1/2">
+                <p className="text-center xl:w-1/2">
                   Describe your vision, and let our AI transform your words into
                   stunning, customizable 3D characters—effortlessly and in
                   seconds
