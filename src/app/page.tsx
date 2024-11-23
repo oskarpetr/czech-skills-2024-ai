@@ -4,6 +4,7 @@ import Pricing from "./components/pricing/Pricing";
 import FAQ from "./components/FAQ/FAQ";
 import Reviews from "./components/Reviews/Reviews";
 import Footer from "./components/Footer/Footer";
+import Contact from "./components/contact/Contact";
 
 export default function Home() {
   return (
@@ -47,6 +48,10 @@ export default function Home() {
 
         <section id="faq">
           <FAQ />
+        </section>
+
+        <section id="contact">
+          <Contact />
         </section>
 
         <section id="footer">

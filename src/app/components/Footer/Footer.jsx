@@ -17,8 +17,7 @@ export default function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="item about">
-                        <img onClick={() => scrollToTarget("header")} src='/images/nav_logo.webp' alt=""
-                             draggable="false" loading="lazy" placeholder="blur"/>
+                        <img onClick={() => scrollToTarget("header")} src='/images/Logo.webp' alt='' draggable="false" loading="lazy" placeholder="blur" />
                         <p>Describe your vision, and let our AI transform your words into stunning, customizable 3D characters—effortlessly and in seconds</p>
                         <span>Morphly</span>
                     </div>
